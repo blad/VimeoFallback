@@ -1,7 +1,7 @@
 require 'net/http'
 require 'uri'
 
-class Vvideo_fallback
+class VimeoFallback
   attr_accessor :response
   attr_accessor :url
   attr_accessor :url_status

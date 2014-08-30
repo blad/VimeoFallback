@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'VimeoFallback'
+
+puts  VimeoFallback.new(ARGV[0]).url
