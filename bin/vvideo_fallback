@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'vvideo_fallback'
+
+puts  Vvideo_fallback.new(ARGV[0]).url
