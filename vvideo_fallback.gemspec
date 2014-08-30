@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'vvideo_fallback'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2014-08-29'
   s.summary     = "Fetch the Fallback Video URL for a Vimeo Video."
   s.description = "The gem fetches the fallback video url for a vimeo video. The URL returned will be to a raw video file."
